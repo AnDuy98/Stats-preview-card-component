@@ -1,0 +1,32 @@
+html {
+    background: hsl(233, 47%, 7%);
+    width: 1440px;
+}
+
+#stats {
+    background: hsl(244, 38%, 16%);
+    
+    
+}
+
+h1 {
+    text-align: left;
+    color: hsl(0, 0%, 100%);
+    float:left;
+}
+
+img {
+    
+}
+
+.attribution { 
+    font-size: 15px; 
+    text-align: center;
+    color: aliceblue;
+    ;
+}
+
+.attribution a { 
+        color: hsl(228, 36%, 70%); 
+    }
+
